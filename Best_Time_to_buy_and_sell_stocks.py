@@ -24,7 +24,7 @@ prices = [2,4,1]
 #         return abs(max_price_stock-min_price_stock)
 
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit(self, prices):
         min_price = float('inf')
         max_profit = 0
 
