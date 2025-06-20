@@ -1,0 +1,16 @@
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        if n <= 2:
+            return n
+        
+        first = 1  # ways(1)
+        second = 2  # ways(2)
+
+        for i in range(3, n + 1):
+            third = first + second
+            first = second
+            second = third
+
+        return second
+    
+# copied the entire solution have to do again math Dp problem
