@@ -42,7 +42,7 @@ class Solution:
             return -1
             
 
-                     
+# min was perfect Logically but the only issue was i had to make set so lookup gets O(1) and also right now it is O(n+t) and space complexity worst case is O(n2) and average is O(n)                     
         
 sol = Solution()
 sol.findJudge(n,trust)
