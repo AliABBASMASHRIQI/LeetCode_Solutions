@@ -28,7 +28,7 @@ class Solution:
             print(True)
             return True
         
-        
+#did it myself without help and it took me like half an hour but did it myself with no help and was running in first time only with no issues in any testcase        
 
 sol = Solution()
 sol.validMountainArray(arr)
