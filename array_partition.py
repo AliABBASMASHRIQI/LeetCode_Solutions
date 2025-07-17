@@ -7,4 +7,4 @@ class Solution:
 sol = Solution()
 sol.arrayPairSum(nums)
 
-# completely copied it and have to do it again no matter what it was very bad 
+# Completely copied it and have to do it again no matter what it was very bad 
