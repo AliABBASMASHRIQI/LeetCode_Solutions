@@ -20,6 +20,7 @@ class Solution:
             
         print(temp_set)
         return len(temp_set)
-      
+
+#did it with my own no help needed only minor issue was done by using append and list that's it not a major thing loigc was my own code my own no issues      
 sol = Solution()
 sol.uniqueMorseRepresentations(words)  
