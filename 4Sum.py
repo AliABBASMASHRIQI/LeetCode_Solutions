@@ -35,4 +35,4 @@ class Solution:
         return res
     
     
-    
+    #This is optimal and working perfectly but i wasn't even able to think the logic so definetly have to try again as it is not done by me and it is a very important question so i have to do it again
