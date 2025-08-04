@@ -11,7 +11,7 @@ class Solution:
             num = sum(digits)
         print(num)
         return num
-                
+                 
             
 
 sol = Solution()
