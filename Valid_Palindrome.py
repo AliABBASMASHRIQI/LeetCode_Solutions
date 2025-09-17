@@ -17,7 +17,7 @@ class Solution:
         print(True)
         return True
         
- #optimal and easily done in like 10 minutes a very good question        
+ #optimal and easily done in like 10 minutes a very good question just not optimal in space where join should not be used and isalnum should be used in every condition for it to work        
 
 sol = Solution()
 sol.isPalindrome(s)
