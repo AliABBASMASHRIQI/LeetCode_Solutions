@@ -7,5 +7,4 @@ class Solution:
         if not common:
             return -1  
         return min(common)
-
-# optimal and it is working fine and done by me
+# optimal and it is working fine and done by me alone
